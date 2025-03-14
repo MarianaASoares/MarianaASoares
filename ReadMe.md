@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cursando graduação em Análise e Desenvolvimento de Sistemas 2/5;<br>👯 Estudante de Front- End;<br>🤝 Estou à procura de uma oportunidade de estágio;<br>💬 Disponível para receber feedbacks e melhorias.<br>
+🔭 Cursando graduação em Análise e Desenvolvimento de Sistemas 4/5;<br>👯 Estudante de Front- End;<br>🤝 Estou à procura de uma oportunidade;<br>💬 Disponível para receber feedbacks e melhorias.<br>
 
 
 # 💻 Tech Stack:
