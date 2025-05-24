@@ -1,4 +1,4 @@
-<h1>Olá, seja bem vindo(a) ao meu GitHub :wave:</h1>
+<h1>Olá, seja bem-vindo(a) ao meu GitHub :wave:</h1>
 
 <p>  :sparkles: Eu sou a Mariana, Desenvolvedora Front-End em início de carreira, apaixonada por transformar ideias em interfaces funcionais e bem construídas. Atualmente, estou me aprofundando em HTML, CSS e JavaScript por meio de projetos pessoais que me ajudam a colocar em prática tudo o que venho aprendendo em cursos e formações.
 </p>
