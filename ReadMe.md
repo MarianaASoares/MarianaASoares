@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 Cursando graduação em Análise e Desenvolvimento de Sistemas 4/5;<br>👯 Estudante de Front- End;<br>🤝 Estou à procura de uma oportunidade;<br>💬 Disponível para receber feedbacks e melhorias.<br>
+<h1>Olá, seja bem vindo(a) ao meu GitHub!!</h1>
+
+<p> Eu sou a Mariana, Desenvolvedora Front-End em início de carreira, apaixonada por transformar ideias em interfaces funcionais e bem construídas. Atualmente, estou me aprofundando em HTML, CSS e JavaScript por meio de projetos pessoais que me ajudam a colocar em prática tudo o que venho aprendendo em cursos e formações.
+</p>
+<p>Estou dando inicio aos meus estudos em React, com o objetivo de evoluir na minha trajetória profissional e adquirir habilidades essenciais para o desenvolvimento de aplicações web modernas.
+Focando no aprendizado e em desafios que me ajudem a crescer como desenvolvedora.</p>
 
 
 # 💻 Tech Stack:
