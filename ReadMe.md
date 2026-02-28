@@ -6,14 +6,24 @@
 Focando no aprendizado e em desafios que me ajudem a crescer como desenvolvedora.</p>
 
 
-# 💻 Tecnologias:
+# 💻 Tecnologias
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-javascript"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50" />
+          
+          
+          
+          
+          
+        
+          
+          
+          
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarianaASoares&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaASoares&layout=compact)
+          
+          
+
+
 
 ---
 
